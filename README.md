@@ -378,5 +378,5 @@ This documentation is part of a controlled research and development initiative c
 ## Contact
 
 No Lack LLC
-Email: [[replace-with-contact@example.com](info@nolackllc.com)]
+Email: [[info@nolackllc.com]
 Repository maintained by No Lack LLC — use issues or pull requests for feedback and contributions.
